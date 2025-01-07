@@ -1,6 +1,7 @@
-## Hi there 👋
+# Hi im jordan carr 
+href= www.linkedin.com/in/jordan-carr-24716218b<!--
+introduction 
 
-<!--
 **cyberboy23/cyberboy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
