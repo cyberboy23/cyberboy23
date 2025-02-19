@@ -4,23 +4,24 @@
 
 - <b>wireshark poject data packets </b>
   - https://github.com/cyberboy23/wireshark/tree/main 
-- <b>vulnerability scan with burpsuite</b>
-  - 
-- <b>pyton pawssword check</b>
-  - 
-  - 
-  - 
-  - 
-- <b>C# (nmap project)</b>
+- <b>wireshark DNS </b>
+  - <b> 
+  - <b> 
+- <b>python </b>
   - 
   - 
   - 
-- <b>cloud scerity </b>
+  - 
+- <b> nmap project</b>
+  - 
+  - 
+  - 
+
   - 
 
 <h2>certificts and skills</h2>
 
-- 
+- <b>google cybersecurity certificate<b> 
 
 <h2> 🤳 Connect with me:</h2>
 
