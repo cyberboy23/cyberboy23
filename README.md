@@ -4,15 +4,15 @@
 
 - <b>wireshark poject data packets </b>
   - https://github.com/cyberboy23/wireshark/tree/main 
-- <b>wireshark DNS </b>
+- <b>wireshark DNS 🦈 </b>
   - <b> 
   - <b> 
-- <b>python </b>
+- <b>python 🐍 </b>
   - 
   - 
   - 
   - 
-- <b> nmap project</b>
+- <b> 🌎nmap project 🌍</b>
   - 
   - 
   - 
